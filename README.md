@@ -16,35 +16,18 @@ I'm a **Data Analyst** in the making, currently enhancing my skills through an i
 
 ### 💻 **Technical Skills**  
 ✅ **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-✅ **Databases & Querying:** SQL (MySQL, PostgreSQL)  
+✅ **Databases & Querying:** SQL (MySQL)  
 ✅ **Data Visualization:** Power BI, Excel  
-✅ **Machine Learning:** Scikit-learn, XGBoost  
-✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, REST APIs  
+✅ **Machine Learning:** Scikit-learn  
+✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, Selenium 
 ✅ **Natural Language Processing (NLP):** NLTK, SpaCy, TextBlob, WordCloud  
 ✅ **Version Control & Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-### 🔥 **Projects**  
-Here are some of the projects I’ve worked on:  
-
-#### **✈️ Flight Profitability Prediction**  
-- Built a **machine learning model** to predict flight profitability.  
-- Cleaned and analyzed **large airline datasets** for insights.  
-- Designed **Power BI dashboards** to visualize performance trends.  
-
-#### **🏥 Healthcare Trend Analysis**  
-- Collected **healthcare data** using web scraping & APIs.  
-- Performed **sentiment analysis** on medical news headlines.  
-- Created interactive **Power BI dashboards** for trend analysis.  
-
-💡 *Check out my repositories for more!*  
-
----
-
 ### 📫 **Let's Connect!**  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📩 [Email](mailto:your-email@example.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/RaviVarma28/)  
+📩 [Email](mailto:gedela.ravi28@gmail.com)  
 
 ---
 
