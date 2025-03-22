@@ -18,9 +18,9 @@ I'm a **Data Analyst** in the making, currently enhancing my skills through an i
 ✅ **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 ✅ **Databases & Querying:** SQL (MySQL)  
 ✅ **Data Visualization:** Power BI, Excel  
-✅ **Machine Learning:** Scikit-learn  
-✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, Selenium 
-✅ **Natural Language Processing (NLP):** NLTK, SpaCy, TextBlob, WordCloud  
+✅ **Machine Learning:** Scikit-learn     
+✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, Selenium     
+✅ **Natural Language Processing (NLP):** NLTK, SpaCy, TextBlob, WordCloud      
 ✅ **Version Control & Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
