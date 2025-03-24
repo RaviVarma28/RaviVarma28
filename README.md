@@ -6,29 +6,42 @@
 ---
 
 ### 🧐 **About Me**  
-I'm a **Data Analyst** in the making, currently enhancing my skills through an intensive course at **Masai**. Originally from a **Civil Engineering** background (B.Tech), I discovered my passion for working with **data** and **turning raw numbers into meaningful insights**.  
+I'm a **Data Analyst** eager to leverage data to drive meaningful decisions. I have recently completed an intensive **Data Analytics course at Masai**, where I worked on real-world projects using **Python, SQL, Power BI, and Machine Learning**.  
 
-- 📊 I love exploring datasets and uncovering hidden patterns.  
-- 🛠️ I work with **Python, SQL, Excel, and Power BI** to solve real-world problems.  
-- 📚 Always learning—whether it's a new tool, technique, or an interesting story!  
+- 📊 I specialize in **data analysis, visualization, and predictive modeling**.  
+- 🛠️ I enjoy **solving complex problems** by uncovering patterns in large datasets.  
+- 📚 I believe in **continuous learning** and regularly explore new technologies.  
 
 ---
 
 ### 💻 **Technical Skills**  
 ✅ **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-✅ **Databases & Querying:** SQL (MySQL)  
+✅ **Databases & Querying:** SQL (MySQL, PostgreSQL)  
 ✅ **Data Visualization:** Power BI, Excel  
-✅ **Machine Learning:** Scikit-learn     
-✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, Selenium     
-✅ **Natural Language Processing (NLP):** NLTK, SpaCy, TextBlob, WordCloud      
+✅ **Machine Learning:** Scikit-learn, XGBoost  
+✅ **Web Scraping & APIs:** Selenium, HTTPX, Selectolax, REST APIs  
+✅ **Natural Language Processing (NLP):** NLTK, SpaCy, TextBlob, WordCloud  
 ✅ **Version Control & Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-### 📫 **Let's Connect!**  
-🌐 [LinkedIn](https://www.linkedin.com/in/RaviVarma28/)  
-📩 [Email](mailto:gedela.ravi28@gmail.com)  
+### 🔥 **Projects**  
+#### **✈️ Flight Profitability Prediction**  
+- Built a **machine learning model** to predict flight profitability.  
+- Cleaned and analyzed **large airline datasets** for insights.  
+- Designed **Power BI dashboards** to visualize performance trends.  
+
+#### **🏥 Healthcare Trend Analysis**  
+- Collected **healthcare data** using web scraping & APIs.  
+- Performed **sentiment analysis** on medical news headlines.  
+- Created interactive **Power BI dashboards** for trend analysis.  
+
+💡 *Check out my repositories for more!*  
 
 ---
+
+### 📫 **Let's Connect!**  
+🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+📩 [Email](mailto:your-email@example.com)  
 
 ⭐ **Fun Fact:** When I’m not analyzing data, I’m either **reading a novel** or **exploring new online courses**! 📚🚀  
