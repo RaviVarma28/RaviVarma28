@@ -41,7 +41,7 @@ I'm a **Data Analyst** eager to leverage data to drive meaningful decisions. I h
 ---
 
 ### 📫 **Let's Connect!**  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📩 [Email](mailto:your-email@example.com)  
+🌐 [LinkedIn](https://www.linkedin.com/ravivarma2899/)  
+📩 [Email](mailto:gedela.ravi28@gmail.com)  
 
 ⭐ **Fun Fact:** When I’m not analyzing data, I’m either **reading a novel** or **exploring new online courses**! 📚🚀  
